@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Speech To Text</string>
+    <string name="applicant_name">Android Codility</string>
+    <string name="text_hint">You will see text here..</string>
+    <string name="btn_info">Press &amp; hold to speak..</string>
+    <string name="app_info">Android comes with an inbuilt feature speech to text through which you can provide speech input to your app. With this you can add some of the cool features to your app like adding voice navigation(Helpful when you are targeting disabled people), filling a form with voice input etc.</string>
+</resources>
